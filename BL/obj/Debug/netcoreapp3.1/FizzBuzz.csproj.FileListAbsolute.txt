@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\bin\Debug\netcoreapp3.1\ISuperFizzBuzz.dll
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\bin\Debug\netcoreapp3.1\ISuperFizzBuzz.pdb
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\BL\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CopyComplete

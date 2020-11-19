@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\ISuperFizzBuzz\bin\Debug\netcoreapp3.1\ISuperFizzBuzz.deps.json
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\ISuperFizzBuzz\bin\Debug\netcoreapp3.1\ISuperFizzBuzz.dll
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\ISuperFizzBuzz\bin\Debug\netcoreapp3.1\ISuperFizzBuzz.pdb
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\ISuperFizzBuzz\obj\Debug\netcoreapp3.1\ISuperFizzBuzz.csprojAssemblyReference.cache
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\ISuperFizzBuzz\obj\Debug\netcoreapp3.1\ISuperFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\ISuperFizzBuzz\obj\Debug\netcoreapp3.1\ISuperFizzBuzz.AssemblyInfo.cs
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\ISuperFizzBuzz\obj\Debug\netcoreapp3.1\ISuperFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\ISuperFizzBuzz\obj\Debug\netcoreapp3.1\ISuperFizzBuzz.dll
+C:\Users\David\Desktop\SuperFizzBuzz\SuperFizzBuzz\ISuperFizzBuzz\obj\Debug\netcoreapp3.1\ISuperFizzBuzz.pdb
